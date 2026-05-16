@@ -89,12 +89,6 @@ https://yuktijaiswal.github.io/GreenGrid/
 
 ---
 
-# 📂 Repository
-
-(Add GitHub repository link here)
-
----
-
 # 📬 Contact
 
 yuktijaiswal.work@gmail.com
